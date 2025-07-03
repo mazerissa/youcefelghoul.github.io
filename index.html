@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Youcef El Ghoul - Developer Portfolio</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header>
+  <nav class="navbar">
+    <div class="logo">Youcef El Ghoul</div>
+
+    <ul class="nav-links">
+      <li><a href="#home" class="active" data-page="home">Home</a></li>
+      <li><a href="#projects" data-page="projects">Projects</a></li>
+      <li><a href="#about" data-page="about">About</a></li>
+    </ul>
+
+    <div class="top-controls">
+      <label for="language-select" class="language-label">🌐</label>
+      <select id="language-select" aria-label="Select Language">
+        <option value="en" selected>English</option>
+        <option value="fr">Français</option>
+        <option value="hu">Magyar</option>
+        <option value="de">Deutsch</option>
+        <option value="ar">العربية</option>
+      </select>
+
+      <button class="hamburger" aria-label="Toggle menu">&#9776;</button>
+    </div>
+  </nav>
+</header>
+
+<main>
+  <section id="home" class="section hero-section fade-in">
+    <h1 data-key="hero_title">Hi, I'm Youcef El Ghoul</h1>
+    <p data-key="hero_subtitle">Crafting seamless digital experiences with code and creativity.</p>
+  </section>
+
+  <section id="projects" class="section projects-section fade-in">
+    <h2 data-key="projects_title">Projects</h2>
+    <div class="projects-grid">
+      <a href="https://github.com/MazeRisaa/Task-manager-app" target="_blank" class="project-card" aria-label="Task Manager App">
+        <h3 data-key="project1_title">Task Manager App</h3>
+        <p data-key="project1_desc">A simple and clean app to track your time and tasks easily.</p>
+      </a>
+    </div>
+  </section>
+
+  <section id="about" class="section about-section fade-in">
+    <h2 data-key="about_title">About Me</h2>
+    <p data-key="about_text">
+      I’m a dedicated developer with experience in building modern websites and apps. I speak multiple languages and love clean, efficient code.
+    </p>
+    <h3 data-key="contact_title">Contact</h3>
+    <p><strong>Email:</strong> <a href="mailto:youcefelghoul@yahoo.com" class="email-link">youcefelghoul@yahoo.com</a></p>
+    <h3 data-key="socials_title">Socials</h3>
+    <div class="socials">
+      <a href="https://github.com/MazeRisaa" target="_blank" rel="noopener noreferrer" aria-label="GitHub">GitHub</a> |
+      <a href="https://www.linkedin.com/in/youcef-el-ghoul/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">LinkedIn</a> |
+      <a href="hhttps://www.instagram.com/maze.rissa?igsh=NnQ3dzNxaXFqOWU1" target="_blank" rel="noopener noreferrer" aria-label="Instagram">Instagram</a> |
+      <a href="https://x.com/maze_rissa?t=gX7GvnyK8jmISA8v18Wy_Q&s=09" target="_blank" rel="noopener noreferrer" aria-label="X (Twitter)">X</a>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <p>© 2025 Youcef ElGhoul. All rights reserved.</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
