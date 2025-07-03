@@ -1,4 +1,4 @@
-# Youcef ElGhoul – Developer Portfolio
+# Youcef El Ghoul – Developer Portfolio
 
 Welcome to my personal portfolio repository! This website showcases my skills, projects, and experience as a passionate software developer.
 
