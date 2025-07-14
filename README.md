@@ -6,7 +6,7 @@ Welcome to my personal portfolio repository! This website showcases my skills, p
 
 ## 🚀 About Me
 
-I’m Youcef ElGhoul, a dedicated developer skilled in Python, HTML, CSS, and JavaScript. I specialize in building clean, efficient, and modern web applications that solve real-world problems. Constantly learning and evolving, I aim to craft seamless digital experiences that delight users.
+I’m Youcef El Ghoul, a dedicated developer skilled in Python, HTML, CSS, and JavaScript. I specialize in building clean, efficient, and modern web applications that solve real-world problems. Constantly learning and evolving, I aim to craft seamless digital experiences that delight users.
 
 ---
 
